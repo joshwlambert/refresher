@@ -1,0 +1,26 @@
+
+# refresher
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of refresher is to ...
+
+## Installation
+
+You can install the development version of refresher from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("joshwlambert/refresher")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(refresher)
+## basic example code
+```
+
